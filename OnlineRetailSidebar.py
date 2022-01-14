@@ -76,8 +76,7 @@ app.title = 'Online Retail and Distibution'
 ########################################################################
 
 
-df = pd.read_csv('/Users/koreynishimoto/Desktop/Retail/'
-                   +'OnlineRetail.csv', index_col=False)
+df = pd.read_csv('OnlineRetail.csv', index_col=False)
 
 
 colors = {"background": "#011833", "text": "#7FDBFF"}
