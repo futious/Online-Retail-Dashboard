@@ -1,4 +1,4 @@
 dash==2.0.0
-dash-bootstap-components==0.13.1
+dash-bootstrap-components==0.13.1
 pandas==1.2.4
 pycountry==20.7.3
