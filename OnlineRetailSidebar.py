@@ -8,59 +8,18 @@ Created on Fri Nov 19 09:04:47 2021
 
 import pandas as pd
 
-import numpy as n
-import pandas as pd
-
-import numpy as np
-from numpy import mean
-from numpy import std
-
-import matplotlib.pyplot as plt
-
-
-from sklearn.model_selection import GridSearchCV
-from sklearn_evaluation import plot
-
-
-from sklearn.linear_model import LogisticRegression 
-lr = LogisticRegression(max_iter=1000,C=1)
-
-
-from sklearn.naive_bayes import GaussianNB
-g=GaussianNB()
-
-from sklearn.svm import SVC 
-clf = SVC(max_iter=100000, C=1000)
-
-
-from sklearn.model_selection import KFold
-
-from sklearn.model_selection import cross_val_score
-
-
-from sklearn import tree
-dt = tree.DecisionTreeClassifier(max_depth=10)
-
-
 import dash
-from dash import dcc
-
-from dash import html
+from dash import dcc, html
 from dash.dependencies import Input, Output
 import dash_table
 
-from pandas.io.formats import style
-
-
 import plotly.express as px
+import pycountry
+import dash_bootstrap_components as dbc
 
 app = dash.Dash(__name__)
 
-import pycountry
-import geopandas as gpd
-import datetime
 
-import dash_bootstrap_components as dbc
 
 
 app = dash.Dash(
