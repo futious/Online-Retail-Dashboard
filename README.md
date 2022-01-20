@@ -111,6 +111,8 @@ To run the code you may need to download dash in your terminal using
 
 This section will give a brief introduction on how to use the dashboard
 
+
+<!-- Homepage -->
 ### Homepage
 
 The homepage has been created to show multiple components of visual data. Simple pictures, paragraphs, cards with clickable links, and tables. The table allows you to get a snapshot some important information that may be pertinent to the veiwer.
@@ -118,9 +120,10 @@ The homepage has been created to show multiple components of visual data. Simple
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
 </p>
 
-<br>
+
 To continue to other sections of the dashboard click on the categories on the right hand side bar, Home, Item Information, and Customer Information.
 
+<!-- Item Information -->
 ### Item Information
 
 The first part of the item information section is a choropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchased, then they will be yellow. Note: The United Kingdom vastly out purchased the rest of the world at 496 thousant units.
@@ -154,7 +157,7 @@ This graph is dependent on a single drop down menu and allows you to change the 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/6th.png?raw=true">
 </p>
 
-
+<!-- Customer Information -->
 ### Customer Information
 
 There is currently only one visual in the customer information section. This is a bar graph that shows the top 5 customers based on total sales.
@@ -162,7 +165,9 @@ There is currently only one visual in the customer information section. This is 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/7th.png?raw=true">
 </p>
 
+<br>
 You can change the number of customers you would like to see using the drop down menu.
+<br>
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/8th.png?raw=true">
 </p>
