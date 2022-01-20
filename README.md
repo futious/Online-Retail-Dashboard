@@ -90,7 +90,7 @@ After you have downloaded all of these items and opened the zip file run the pyt
 To run the code you may need to download dash in your terminal using 
 
    ```sh
-   pip install dash
+   pip install -r requirements.txt
    ```
 
 
