@@ -122,12 +122,12 @@ To continue to other sections of the dashboard click on the categories on the ri
 
 ### Item Information
 
-The first part of the item information section is a chloropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchsed, then they will be yellow. Note: The United Kingdom vastly our purchased the rest of the world at 496 thousant units.
+The first part of the item information section is a choropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchsed, then they will be yellow. Note: The United Kingdom vastly our purchased the rest of the world at 496 thousant units.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/1st.png?raw=true">
 </p>
 
-The sencond graph in the item information section is a line graph.
+The second graph in the item information section is a line graph.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/2nd.png?raw=true">
 </p>
@@ -148,7 +148,7 @@ The last visal in the item information section is a scatter plot.
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/5th.png?raw=true">
 </p>
 
-This graph is dependedn ton a single drop down menue and allows you to change the item that you would like to see sales over time.
+This graph is dependedn ton a single drop down menu and allows you to change the item that you would like to see sales over time.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/6th.png?raw=true">
 </p>
