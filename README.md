@@ -65,7 +65,7 @@ Visual representation of data is indespensible in explaining data to people. The
 ### Built With
 
 * [Spyder version 4.2.5](https://www.spyder-ide.org)
-* [Python version 3.8](https://www.spyder-ide.org)
+* [Python version 3.8](https://www.python.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,7 +121,7 @@ The homepage has been created to show multiple components of visual data. Simple
 </p>
 
 
-To continue to other sections of the dashboard click on the categories on the right hand side bar, Home, Item Information, and Customer Information.
+To continue to other sections of the dashboard click on the categories on the left hand side bar, Home, Item Information, and Customer Information.
 
 <!-- Item Information -->
 ### Item Information
