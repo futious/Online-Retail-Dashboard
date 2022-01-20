@@ -122,7 +122,7 @@ To continue to other sections of the dashboard click on the categories on the ri
 
 ### Item Information
 
-The first part of the item information section is a choropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchased, then they will be yellow. Note: The United Kingdom vastly our purchased the rest of the world at 496 thousant units.
+The first part of the item information section is a choropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchased, then they will be yellow. Note: The United Kingdom vastly out purchased the rest of the world at 496 thousant units.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/1st.png?raw=true">
 </p>
