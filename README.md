@@ -122,9 +122,50 @@ To continue to other sections of the dashboard click on the categories on the ri
 
 ### Item Information
 
+The first part of the item information section is a chloropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchsed, then they will be yellow. Note: The United Kingdom vastly our purchased the rest of the world at 496 thousant units.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/1st.png?raw=true">
+</p>
+
+The sencond graph in the item information section is a line graph.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/2nd.png?raw=true">
+</p>
+
+This graph is dependent on the two drop down menus. The first drop down menue changes the information typr form total sales to quantity.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/3rd.png?raw=true">
+</p>
+
+The second drop down menu allows you to choose the contry that you would like to know about.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/4th.png?raw=true">
+</p>
+
+
+The last visal in the item information section is a scatter plot.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/5th.png?raw=true">
+</p>
+
+This graph is dependedn ton a single drop down menue and allows you to change the item that you would like to see sales over time.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/6th.png?raw=true">
+</p>
 
 
 ### Customer Information
+
+There is currently only one visual in the customer information section. This is a bar graph that shows the top 5 customers based on total sales.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/7th.png?raw=true">
+</p>
+
+You can change the number of customers you would like to see in the drop down menu.
+
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/8th.png?raw=true">
+</p>
+
 
 
 <!-- ROADMAP -->
