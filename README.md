@@ -132,7 +132,7 @@ The second graph in the item information section is a line graph.
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/2nd.png?raw=true">
 </p>
 
-This graph is dependent on the two drop down menus. The first drop down menue changes the information typr form total sales to quantity.
+This graph is dependent on the two drop down menus. The first drop down menu changes the information type from total sales to quantity.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/3rd.png?raw=true">
 </p>
@@ -148,7 +148,7 @@ The last visal in the item information section is a scatter plot.
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/5th.png?raw=true">
 </p>
 
-This graph is dependedn ton a single drop down menu and allows you to change the item that you would like to see sales over time.
+This graph is dependent on a single drop down menu and allows you to change the item that you would like to see sales over time.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/6th.png?raw=true">
 </p>
@@ -161,7 +161,7 @@ There is currently only one visual in the customer information section. This is 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/7th.png?raw=true">
 </p>
 
-You can change the number of customers you would like to see in the drop down menu.
+You can change the number of customers you would like to see using the drop down menu.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/8th.png?raw=true">
 </p>
