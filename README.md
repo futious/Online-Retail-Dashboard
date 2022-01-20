@@ -114,7 +114,7 @@ After you have downloaded all of these items and opened the zip file run the pyt
 
 
   ---
-### Installation
+### Homepage
 
 To run the code you may need to download dash in your terminal using 
  <p>
