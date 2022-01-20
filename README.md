@@ -113,7 +113,7 @@ This section will give a brief introduction on how to use the dashboard
 
 ### Homepage
 
-The homepage has been created to show multiple components of visual data. Simple pictures, paragraphs, cards with clickable links, and tables. The table allows you to get a snapshot some important informationt that may be pertinent to the veiwer.
+The homepage has been created to show multiple components of visual data. Simple pictures, paragraphs, cards with clickable links, and tables. The table allows you to get a snapshot some important information that may be pertinent to the veiwer.
  <p>
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
 </p>
