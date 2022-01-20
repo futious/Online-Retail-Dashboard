@@ -118,6 +118,7 @@ The homepage has been created to show multiple components of visual data. Simple
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
 </p>
 
+<br>
 To continue to other sections of the dashboard click on the categories on the right hand side bar, Home, Item Information, and Customer Information.
 
 ### Item Information
