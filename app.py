@@ -81,11 +81,7 @@ mapdf = mapdf.join(df['Country'].value_counts(), on='Country', lsuffix='', rsuff
 
 
 
-# Quantity of sales per day
 
-#quantity = df.groupby(by='InvoiceDate')['Quantity'].sum().fillna(0).reset_index(drop=False)
-#quantity['Month'] = quantity['InvoiceDate'].dt.month
-#quantity['Year'] = quantity['InvoiceDate'].dt.year
 
 quantity = df.groupby(by=['InvoiceDate', 'Country'])['Quantity'].sum().reset_index(drop=False)
 
