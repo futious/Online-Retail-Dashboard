@@ -147,7 +147,7 @@ The second drop down menu allows you to choose the contry that you would like to
 </p>
 
 
-The last visal in the item information section is a scatter plot.
+The last visual in the item information section is a scatter plot.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/5th.png?raw=true">
 </p>
@@ -165,9 +165,9 @@ There is currently only one visual in the customer information section. This is 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/7th.png?raw=true">
 </p>
 
-<br>
+
 You can change the number of customers you would like to see using the drop down menu.
-<br>
+
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/8th.png?raw=true">
 </p>
