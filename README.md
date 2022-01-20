@@ -116,7 +116,7 @@ After you have downloaded all of these items and opened the zip file run the pyt
   ---
 ### Homepage
 
-To run the code you may need to download dash in your terminal using 
+
  <p>
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
 </p>
