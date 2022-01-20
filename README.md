@@ -31,6 +31,6 @@ To view the dashboard in its entirety you will need to download the following.
 
 1) Assets folder
 2) OnlineRetail.csv.zip
-3) OnlineRetailSidebar.py
+3) app.py
 
 After you have downloaded all of these items and opend the zip file run the python code. The dashboard will run localy and requires you to use your internet browser to see it. Input http://127.0.0.1:8070 into your browser and the dashboard will populate only after the code has been run.
