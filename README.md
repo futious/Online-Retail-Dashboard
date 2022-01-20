@@ -19,7 +19,15 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#how-to-use">How to Use</a></li>
+    <li><
+      a href="#how-to-use">How to Use</a>
+        <ul>
+          <li><a href="#homepage">Homepage</a></li>
+        <li><a href="#item-information">Item Information</a></li>
+         <li><a href="#customer-information">Customer Information</a></li>
+      </ul>
+      
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
@@ -102,9 +110,22 @@ To run the code you may need to download dash in your terminal using
 <!-- How to Use -->
 ## How to Use
 
+This section will give a brief introduction on how to use the dashboard
+
+### Homepage
+
+The homepage has been created to show multiple components of visual data. Simple pictures, paragraphs, cards with clickable links, and tables. The table allows you to get a snapshot some important informationt that may be pertinent to the veiwer.
  <p>
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
 </p>
+
+To continue to other sections of the dashboard click on the categories on the right hand side bar, Home, Item Information, and Customer Information.
+
+### Item Information
+
+
+
+### Customer Information
 
 
 <!-- ROADMAP -->
