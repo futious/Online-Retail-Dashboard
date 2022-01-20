@@ -19,13 +19,14 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#how-to-use">How to Use</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
 
 
 
-
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
  <p>
@@ -98,7 +99,8 @@ To run the code you may need to download dash in your terminal using
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+<!-- How to Use -->
+## How to Use
 
 
 <!-- ROADMAP -->
