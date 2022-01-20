@@ -1,6 +1,38 @@
-# Online-Retail-Dashboard
+<div id="top"></div>
 
-  ---
+# Online Retail Dashboard
+
+  
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+  </ol>
+</details>
+
+
+
+
+## About The Project
+
+ <p>
+  <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
+</p>
+
+
  This dashboard is used to demonstrate the different components of dash. The goal is to give the viewer a visualy appealing way to display data. The types of components used in this dashboard are as follows.
  
  1) Image displays
@@ -17,15 +49,24 @@
 
 Visual representation of data is indespensible in explaining data to people. The dashboard is versatile in displaying data. We can change color, placement and represent data using multiple modes.
 
-  ---
 
-#  How to Install and Run the Project
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-  ---
-  
- <p>
-  <img width="600" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
-</p>
+
+---
+### Built With
+
+* [Spyder version 4.2.5](https://www.spyder-ide.org)
+* [Python version 3.8](https://www.spyder-ide.org)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
 
 To view the dashboard in its entirety you will need to download the following. 
 
@@ -33,4 +74,42 @@ To view the dashboard in its entirety you will need to download the following.
 2) OnlineRetail.csv.zip
 3) app.py
 
-After you have downloaded all of these items and opend the zip file run the python code. The dashboard will run localy and requires you to use your internet browser to see it. Input http://127.0.0.1:8070 into your browser and the dashboard will populate only after the code has been run.
+or clone the repository 
+```sh
+git clone https://github.com/futious/Online-Retail-Dashboard.git
+```
+
+After you have downloaded all of these items and opened the zip file run the python code. The dashboard will run locally and requires you to use your internet browser to see it. Input http://127.0.0.1:8070 into your browser and the dashboard will populate only after the code has been run.
+
+
+
+  ---
+### Installation
+
+To run the code you may need to download dash in your terminal using 
+
+   ```sh
+   pip install dash
+   ```
+
+
+  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+
+
+Some other components I would like to use in the future are
+- [ ] Sunburst charts
+- [ ] Tabs
+- [ ] Markers for the line chart
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
