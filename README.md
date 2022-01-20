@@ -41,7 +41,7 @@
 </p>
 
 
- This dashboard is used to demonstrate the different components of dash. The goal is to give the viewer a visualy appealing way to display data. The types of components used in this dashboard are as follows.
+ This dashboard is used to demonstrate the different components of dash. The goal is to give the viewer a visually appealing way to display data. The types of components used in this dashboard are as follows.
  
  1) Image displays
  2) Cards
@@ -50,12 +50,12 @@
  5) Maps
  6) Line graphs
  7) Line graphs
- 8) Drop down menues
+ 8) Drop down menus
  9) Scatter plots
  10) Bar graphs
  11) CSS Formating
 
-Visual representation of data is indespensible in explaining data to people. The dashboard is versatile in displaying data. We can change color, placement and represent data using multiple modes.
+Visual representation of data is indispensable in explaining data to people. The dashboard is versatile in displaying data. We can change color, placement and represent data using multiple modes.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -109,13 +109,14 @@ To run the code you may need to download dash in your terminal using
 <!-- How to Use -->
 ## How to Use
 
-This section will give a brief introduction on how to use the dashboard
+After you have downloaded all of these items and opened the zip file run the python code. The dashboard will run locally and requires you to use your internet browser to see it. Input http://127.0.0.1:8070 into your browser and the dashboard will populate only after the code has been run.
 
 
-<!-- Homepage -->
-### Homepage
 
-The homepage has been created to show multiple components of visual data. Simple pictures, paragraphs, cards with clickable links, and tables. The table allows you to get a snapshot some important information that may be pertinent to the veiwer.
+  ---
+### Installation
+
+To run the code you may need to download dash in your terminal using 
  <p>
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/687fc900d0683d3f47d869dce0305ddbf490a8b3/assets/Homepage.png?raw=true">
 </p>
@@ -126,7 +127,7 @@ To continue to other sections of the dashboard click on the categories on the le
 <!-- Item Information -->
 ### Item Information
 
-The first part of the item information section is a choropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchased, then they will be yellow. Note: The United Kingdom vastly out purchased the rest of the world at 496 thousant units.
+The first part of the item information section is a choropleth map. This map shows the distribution of products sold around the world. This map has been modified so that if the country has more than 1000 items purchased, then they will be yellow. Note: The United Kingdom vastly out purchased the rest of the world at 496 thousand units.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/1st.png?raw=true">
 </p>
@@ -141,7 +142,7 @@ This graph is dependent on the two drop down menus. The first drop down menu cha
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/3rd.png?raw=true">
 </p>
 
-The second drop down menu allows you to choose the contry that you would like to know about.
+The second drop down menu allows you to choose the country that you would like to know about.
 
   <img width="1000" align='left' src="https://github.com/futious/Online-Retail-Dashboard/blob/848e7b7756a7b2eedf51bd5895fc727054dfa6b3/assets/4th.png?raw=true">
 </p>
