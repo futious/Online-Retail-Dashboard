@@ -19,14 +19,13 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><
-      a href="#how-to-use">How to Use</a>
+    <li>
+      <a href="#how-to-use">How to Use</a>
         <ul>
           <li><a href="#homepage">Homepage</a></li>
         <li><a href="#item-information">Item Information</a></li>
          <li><a href="#customer-information">Customer Information</a></li>
-      </ul>
-      
+      </ul>  
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
