@@ -71,7 +71,7 @@ df['Country Code'] = [countries.get(country, 'Unknown code') for country in df['
 df['Total Sales'] = df['Quantity'].multiply(df['UnitPrice'],fill_value=0)
 
 
-#Make new data frame for mapping dollar amount and number of sales
+#Make new data frame for mapping number of sales
  
 mapdf = pd.DataFrame()
 mapdf['Country'] = df['Country'].unique()
